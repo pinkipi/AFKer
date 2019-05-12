@@ -1,0 +1,7 @@
+{
+	"name": "afker",
+	"update": "github:tera-mods/afker",
+	"title": "AFKer",
+	"author": "Pinkie Pie",
+	"description": "Lets you toggle off logout to prevent being sent back to character select after 2 hours of inactivity."
+}
